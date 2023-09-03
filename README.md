@@ -1,5 +1,5 @@
 # EXPRESSÕES REGULARES NO LINUX
-Obs.: Nenhum dos vídeos abaixo são de minha autoria. Crédito dos vídeos para Boson Treinamentos
+Obs.: Nenhum dos vídeos abaixo são de minha autoria. Crédito dos vídeos para Boson Treinamentos.<br>
 SITE PARA ESTUDO: https://www.regexpal.com/
 
 - AULA-1: https://www.youtube.com/watch?v=31FgxWsRRMw   " . \ "
